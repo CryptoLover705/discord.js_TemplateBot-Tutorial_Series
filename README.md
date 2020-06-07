@@ -1,1 +1,1 @@
-# doscord.js_TemplateBot
+# discord.js_TemplateBot
