@@ -6,7 +6,7 @@ const config = require("./config.json");
 client.on('ready', () => {
     // Set bot status to: "Playing with JavaScript"
     client.user.setActivity("with JavaScript");
-    client.user.setActivity(`Serving ${client.guilds.size} servers`);
+    // client.user.setActivity(`Serving ${client.guilds.size} servers`);
 
     // Alternatively, you can set the activity to any of the following:
     // PLAYING, STREAMING, LISTENING, WATCHING
