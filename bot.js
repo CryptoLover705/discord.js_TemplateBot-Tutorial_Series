@@ -16,7 +16,7 @@ client.on('ready', () => {
 // The bot will ping in this channel when it is powered up
 client.on('ready', () => {
     var testChannel = client.channels.cache.get("716384407526703195") // Replace with known channel ID
-    testChannel.send("Hello world!")  
+    testChannel.send("Hello world! I am currently under development but please stick around for more :wink:")   
 });
 
 
