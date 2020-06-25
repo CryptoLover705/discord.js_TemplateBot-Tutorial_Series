@@ -29,3 +29,4 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * Downloads ![GitHub All Releases](https://img.shields.io/github/downloads/CryptoLover705/discord.js_TemplateBot-Tutorial_Series/total)
 * Commits ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
 * Repo Size ![GitHub repo size](https://img.shields.io/github/repo-size/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
+ 
