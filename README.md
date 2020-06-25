@@ -28,4 +28,6 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * StarGazers ![GitHub watchers](https://img.shields.io/github/watchers/CryptoLover705/discord.js_TemplateBot-Tutorial_Series?style=social)
 * Commits ![GitHub last commit](https://img.shields.io/github/last-commit/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
 * Repo Size ![GitHub repo size](https://img.shields.io/github/repo-size/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
+* Issues open ![GitHub issues](https://img.shields.io/github/issues-raw/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
+* Pull Requests open ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
  
