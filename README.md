@@ -9,9 +9,9 @@ If you would like a video tutorial on how to make a `Discord Bot` in `JS` then p
 
 ### Intro video 
 https://www.youtube.com/watch?v=tGFDogXpu5Q
-Views for intro vid
-* ![YouTube Video Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)
-
+* Views ![YouTube Video Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)
+* Comments ![YouTube Video Comments](https://img.shields.io/youtube/comments/tGFDogXpu5Q?style=social)
+* Likes ![YouTube Video Likes](https://img.shields.io/youtube/likes/tGFDogXpu5Q?style=social)
 
 
 ### Server Stats
