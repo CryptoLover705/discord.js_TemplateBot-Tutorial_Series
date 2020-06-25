@@ -7,6 +7,11 @@ If you would like a video tutorial on how to make a `Discord Bot` in `JS` then p
 * UserID: `665504410931036170`
 * Main server 1: [Crypto Bots](https://discord.gg/9ZKxG7Y), Main server 2: [CryptoBots - Test Ground](https://discord.gg/YJyYTTe)
 
+### Intro video 
+https://www.youtube.com/watch?v=tGFDogXpu5Q
+Views for intro vid
+* ![YouTube Video Views](https://img.shields.io/youtube/views/tGFDogXpu5Q?style=social)
+
 
 
 ### Server Stats
