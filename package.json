@@ -1,5 +1,16 @@
 {
-    "dependencies": {
-        "discord.js": "^12.2.0"
-    }
+  "name": "discord.js_TemplateBot-Tutorial_Series",
+  "version": "1.0.0",
+  "description": "This is for my tutorial on how to make a discord bot written i js using node v12, and the latest discord version",
+  "main": "./bot.js",
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CryptoLover705",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
 }
