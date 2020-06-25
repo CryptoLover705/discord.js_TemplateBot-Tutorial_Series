@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 
 ### Social Media Stats
 * Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
+* GitHub ![GitHub followers](https://img.shields.io/github/followers/CryptoLover705?style=social)
 
 ### Repo Stats
 * Forks ![GitHub forks](https://img.shields.io/github/forks/CryptoLover705/discord.js_TemplateBot-Tutorial_Series?style=social)
@@ -27,3 +28,4 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * StarGazers ![GitHub watchers](https://img.shields.io/github/watchers/CryptoLover705/discord.js_TemplateBot-Tutorial_Series?style=social)
 * Downloads ![GitHub All Releases](https://img.shields.io/github/downloads/CryptoLover705/discord.js_TemplateBot-Tutorial_Series/total)
 * Commits ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
+* Repo Size ![GitHub repo size](https://img.shields.io/github/repo-size/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
