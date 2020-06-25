@@ -10,8 +10,8 @@ If you would like a video tutorial on how to make a `Discord Bot` in `JS` then p
 
 
 ### Server Stats
-* Server 1 ![Discord](https://img.shields.io/discord/665525153052229673) 
-* Server 2 ![Discord](https://img.shields.io/discord/668058672743579658)
+* Crypto Bots ![Discord](https://img.shields.io/discord/665525153052229673) 
+* CryptoBots - Test Ground ![Discord](https://img.shields.io/discord/668058672743579658)
 
 ### Social Media Stats
 * Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social)
