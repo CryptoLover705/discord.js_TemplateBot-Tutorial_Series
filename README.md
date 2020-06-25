@@ -31,4 +31,9 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * Issues open ![GitHub issues](https://img.shields.io/github/issues-raw/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
 * Pull Requests open ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
 * Language the bot uses most of ![GitHub top language](https://img.shields.io/github/languages/top/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
- 
+
+
+### Donations
+* MCO- `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b` 
+* BTC- `3DNVMDj4VQZb31t5LkmmDyw6dZqe35SwHd` 
+* LTC- `MKL4WSfmhQb6Kmqcy3iRvpy7jW7WXDi6D5` 
