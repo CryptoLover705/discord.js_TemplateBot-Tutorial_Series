@@ -16,19 +16,19 @@ client.on('ready', () => {
 
 // The bot will ping in this channel when it is powered up
 client.on('ready', () => {
-    var testChannel = client.channels.cache.get("716384407526703195") // Replace with known channel ID
+    var testChannel = client.channels.cache.get("xxxx") // Replace with known channel ID
     testChannel.send("Hello world! I am currently under development but please stick around for more :wink:")  
 });
-
+// This is for when members are removed from the server
 client.on('guildMemberRemove',(member) => {
     client.channels.find('leave').send(`**${member.username}** has just left server.. Bye Bye`);
 });
-
+// when the bot gets added to a new server
 client.on("guildCreate", guild => {
     // This event triggers when the bot joins a guild.
     client.channels.find('bot-logs').send(`New guild joined: ${guild.name} (id: ${guild.id}). This guild has ${guild.memberCount} members!`);
 });
-  
+  // The bot leaves a server
 client.on("guildDelete", guild => {
     // this event triggers when the bot is removed from a guild.
     client.channels.find('bot-logs').send(`I have been removed from: ${guild.name} (id: ${guild.id})`);
