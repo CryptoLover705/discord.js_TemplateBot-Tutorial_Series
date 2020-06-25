@@ -34,6 +34,6 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 
 
 ### Donations
-* MCO- `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b` 
-* BTC- `3DNVMDj4VQZb31t5LkmmDyw6dZqe35SwHd` 
-* LTC- `MKL4WSfmhQb6Kmqcy3iRvpy7jW7WXDi6D5` 
+* MCO - `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b` 
+* BTC - `3DNVMDj4VQZb31t5LkmmDyw6dZqe35SwHd` 
+* LTC - `MKL4WSfmhQb6Kmqcy3iRvpy7jW7WXDi6D5` 
