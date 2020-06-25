@@ -30,4 +30,5 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * Repo Size ![GitHub repo size](https://img.shields.io/github/repo-size/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
 * Issues open ![GitHub issues](https://img.shields.io/github/issues-raw/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
 * Pull Requests open ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
+* Language the bot uses most of ![GitHub top language](https://img.shields.io/github/languages/top/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
  
