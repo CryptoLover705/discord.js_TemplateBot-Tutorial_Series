@@ -33,7 +33,13 @@ https://www.youtube.com/watch?v=tGFDogXpu5Q
 * Language the bot uses most of ![GitHub top language](https://img.shields.io/github/languages/top/CryptoLover705/discord.js_TemplateBot-Tutorial_Series)
 
 
-### Donations
+### Donation Addresses
 * MCO - `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b` 
+* CRO - `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b`
+* ETH - `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b`
+* BAT - `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b`
+* USDC - `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b`
+* USDT - `0x50542A52B2d01c807dd18e8CD7Ee1d3a2670329b`
 * BTC - `3DNVMDj4VQZb31t5LkmmDyw6dZqe35SwHd` 
+* BCH - `qrrele2fl4hm2c9vw5k845g5xjmvxlcu5gpv29qy2x`
 * LTC - `MKL4WSfmhQb6Kmqcy3iRvpy7jW7WXDi6D5` 
