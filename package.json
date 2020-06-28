@@ -1,7 +1,7 @@
 {
   "name": "discord.js_TemplateBot-Tutorial_Series",
   "version": "1.0.0",
-  "description": "This is for my tutorial on how to make a discord bot written i js using node v12, and the latest discord version",
+  "description": "This is for my tutorial on how to make a discord bot written i js using node v12, and discord version 12",
   "main": "./bot.js",
   },
   "scripts": {
