@@ -1,14 +1,21 @@
 const Discord = require('discord.js')
 const client = new Discord.Client()
 const config = require("./config.json");
+const fs = require("fs");
+//commands stuff
+client.commands = new Discord.Collection();
 
-//locates command js files for bot.commands
+//locates command js files for client.commands
 fs.readdir("./cmds/", (err, files) => {
     if(err) console.error(err);
 
     let jsfiles = files.filter(f => f.split(".").pop() === "js");
     //"a.b.c" => ["a", "b", "c"]
     if(jsfiles.length <= 0) {
+        
+        // This logs to a channel & console log if no commands were loaded
+        var botLog = client.channels.cache.get("xxxx") // Replace with known channel ID
+        botLog.send("no commands to load!");
         console.log("no commands to load!");
         return;
     };
@@ -17,8 +24,12 @@ fs.readdir("./cmds/", (err, files) => {
 
     jsfiles.forEach((f, i) => {
         let props = require(`./cmds/${f}`);
+        
+        //This logs to a channel & console log if commands are loaded 
+        var botLog = client.channels.cache.get("xxxx") // Replace with known channel ID
+        botLog.send(`${i + 1}: ${f} loaded!`);  
         console.log(`${i + 1}: ${f} loaded!`);
-        bot.commands.set(props.help.name, props);
+        client.commands.set(props.help.name, props);
     });
 });
 
