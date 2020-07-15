@@ -2,6 +2,25 @@ const Discord = require('discord.js')
 const client = new Discord.Client()
 const config = require("./config.json");
 
+//locates command js files for bot.commands
+fs.readdir("./cmds/", (err, files) => {
+    if(err) console.error(err);
+
+    let jsfiles = files.filter(f => f.split(".").pop() === "js");
+    //"a.b.c" => ["a", "b", "c"]
+    if(jsfiles.length <= 0) {
+        console.log("no commands to load!");
+        return;
+    };
+
+    console.log(`loading ${jsfiles.length} commands!`);
+
+    jsfiles.forEach((f, i) => {
+        let props = require(`./cmds/${f}`);
+        console.log(`${i + 1}: ${f} loaded!`);
+        bot.commands.set(props.help.name, props);
+    });
+});
 
 client.on('ready', () => {
     // Set bot status to: "Playing with JavaScript"
